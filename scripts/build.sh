@@ -1,3 +1,3 @@
 #!/bin/bash
 
-docker build -t bryantrobbins/docker-tomcat-example .
+docker build -t docker-tomcat-custom .
